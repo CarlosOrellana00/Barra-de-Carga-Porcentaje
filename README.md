@@ -36,3 +36,7 @@ Si, Puedes probarlo en linea haciendo click [aqui](https://carlosorellana00.gith
   <img src="./docs/img/img.jpg" alt="Screenshot 5x5" width="300"></a>
 </div>
 
+## Referencias y Agradecimientos a: 
+- [Autor Original -> CodingNepal](https://www.youtube.com/c/CodingNepal)
+- [Proyecto Original](https://drive.google.com/file/d/13tS048IukFPzZqX4fTBrK_HWDuakyM1s/view)
+- [Video Proyecto Original -> Loading Animation using HTML CSS & Javascript | Animated Progress Bar](https://www.youtube.com/watch?v=JLlBTY8n9Fk)
